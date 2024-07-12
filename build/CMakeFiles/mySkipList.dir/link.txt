@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/mySkipList.dir/src/main.cpp.o  -o mySkipList 

@@ -1,0 +1,4 @@
+/home/xiaoshan/kv-skiplist/mySkipList/build/CMakeFiles/rebuild_cache.dir
+/home/xiaoshan/kv-skiplist/mySkipList/build/CMakeFiles/edit_cache.dir
+/home/xiaoshan/kv-skiplist/mySkipList/build/CMakeFiles/stress-test.dir
+/home/xiaoshan/kv-skiplist/mySkipList/build/CMakeFiles/mySkipList.dir

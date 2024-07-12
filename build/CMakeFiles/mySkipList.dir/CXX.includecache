@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/mySkipList.hpp
+iostream
+-
+fstream
+-
+cstring
+-
+cmath
+-
+cstdlib
+-
+ctime
+-
+mutex
+-
+
+/home/xiaoshan/kv-skiplist/mySkipList/src/main.cpp
+mySkipList.hpp
+/home/xiaoshan/kv-skiplist/mySkipList/src/mySkipList.hpp
+
